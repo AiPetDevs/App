@@ -1,0 +1,6 @@
+{
+ "versionName": "1.0",
+ "dmg": "https://github.com/AiPetDevs/App/releases/download/macgauges-v1.0/MacGauges-1.0.dmg",
+ "sha256": "61121539f2bfc4da6b65583bf4c861d15e0dc0d4575452f5d405cded860b50f2",
+ "notes": "Rings CPU, MEM, GPU, VRAM, power (P) and Wi-Fi down/up in the menu bar"
+}
