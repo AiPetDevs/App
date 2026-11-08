@@ -1,7 +1,7 @@
 {
- "versionCode": 33,
- "versionName": "1.31",
- "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.31/Timesheet-1.31.apk",
- "sha256": "20eb1ad184233b1fc7d23a20688d45fccf03fa6ca08cd4f240648a7a1278b611",
- "notes": "Report a problem, updates from the app, first steps for new technicians"
+ "versionCode": 34,
+ "versionName": "1.32",
+ "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.32/Timesheet-1.32.apk",
+ "sha256": "c73b0d21edca9228c78d5892079217be1c14d284271fb185f3cd521b742a3f9b",
+ "notes": "No Log for LOG.md: Report a problem is the one way to send problems"
 }
