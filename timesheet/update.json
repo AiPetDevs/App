@@ -1,7 +1,7 @@
 {
- "versionCode": 36,
- "versionName": "1.34",
- "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.34/Timesheet-1.34.apk",
- "sha256": "6b5bd31520aba2e8bf0e54f96c950d84e3217049d83860499bf6b9cbf079474a",
- "notes": "Screenshot editor: opens in Crop, no Apply, auto-save, fixed stale shot and share preview; Check for updates names both versions"
+ "versionCode": 37,
+ "versionName": "1.35",
+ "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.35/Timesheet-1.35.apk",
+ "sha256": "010f20532810d435ccca2ea9e1df8d932fcc72952ba75dd552cb0df19dc88654",
+ "notes": "Screenshots go to the phone's screenshots folder (or a chosen one); Set up step 1: refuse first, then App info \u22ee"
 }
