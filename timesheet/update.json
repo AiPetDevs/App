@@ -1,7 +1,7 @@
 {
- "versionCode": 34,
- "versionName": "1.32",
- "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.32/Timesheet-1.32.apk",
- "sha256": "c73b0d21edca9228c78d5892079217be1c14d284271fb185f3cd521b742a3f9b",
- "notes": "No Log for LOG.md: Report a problem is the one way to send problems"
+ "versionCode": 36,
+ "versionName": "1.34",
+ "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.34/Timesheet-1.34.apk",
+ "sha256": "6b5bd31520aba2e8bf0e54f96c950d84e3217049d83860499bf6b9cbf079474a",
+ "notes": "Screenshot editor: opens in Crop, no Apply, auto-save, fixed stale shot and share preview; Check for updates names both versions"
 }
