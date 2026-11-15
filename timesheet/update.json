@@ -1,7 +1,7 @@
 {
- "versionCode": 37,
- "versionName": "1.35",
- "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.35/Timesheet-1.35.apk",
- "sha256": "010f20532810d435ccca2ea9e1df8d932fcc72952ba75dd552cb0df19dc88654",
- "notes": "Screenshots go to the phone's screenshots folder (or a chosen one); Set up step 1: refuse first, then App info \u22ee"
+ "versionCode": 38,
+ "versionName": "1.36",
+ "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.36/Timesheet-1.36.apk",
+ "sha256": "7d29b6e7144fae052928096dff054062ab3ade35bfe4df78727da00b8e7f38b0",
+ "notes": "Fill Day reopens the day already read; a missed day is entered and ended under its own date; a jumper as long as the drop is no longer dropped as a duplicate"
 }
