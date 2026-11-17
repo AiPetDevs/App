@@ -1,7 +1,7 @@
 {
- "versionCode": 38,
- "versionName": "1.36",
- "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.36/Timesheet-1.36.apk",
- "sha256": "7d29b6e7144fae052928096dff054062ab3ade35bfe4df78727da00b8e7f38b0",
- "notes": "Fill Day reopens the day already read; a missed day is entered and ended under its own date; a jumper as long as the drop is no longer dropped as a duplicate"
+ "versionCode": 40,
+ "versionName": "1.38",
+ "apk": "https://github.com/AiPetDevs/App/releases/download/timesheet-v1.38/Timesheet-1.38.apk",
+ "sha256": "b72c633e8cd602daa646fce5f80c9b78a218cdbafef3da602ae3f1f537b15589",
+ "notes": "Home buttons show done (Day Completed, Day Ended, Week Submitted); Update from the portal on the Week page; on Sunday Fill Day works with Saturday; Accessibility setup in three steps; help updated"
 }
